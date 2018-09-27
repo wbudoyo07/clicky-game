@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "name": "Tim",
+        "image":"./images/baby1.jpeg",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "name": "Ammy",
+        "image":"./images/baby2.jpeg",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "name": "Cindy",
+        "image":"./images/baby3.jpeg",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "name": "Ben",
+        "image":"./images/baby3.jpeg",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "name": "Tannie",
+        "image":"./images/baby4.jpeg",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "name": "Larry",
+        "image":"./images/baby5.jpeg",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "name": "Zeke",
+        "image":"./images/baby6.jpeg",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "name": "Collins",
+        "image":"./images/baby7.jpeg",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "name": "Bill",
+        "image":"./images/baby8.jpeg",
+        "clicked": false
+    },
+    {
+        "id":9,
+        "name": "Sandy",
+        "image":"./images/baby9.jpeg",
+        "clicked": false
+    },
+    {
+        "id":10,
+        "name": "Yendy",
+        "image":"./images/baby10.jpeg",
+        "clicked": false
+    }
+]
