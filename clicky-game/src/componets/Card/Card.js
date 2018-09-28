@@ -1,23 +1,11 @@
 import React from "react";
 import "./Card.css";
 
-const Card = () => (
-    <div className="card">
+//discomposing the props 
+const Card = ({id, name, image, handleClick}) => (
+    <div className="card" name = {name} data-id = {id} onClick= {()=>handleClick()} >
     <div className="img-container">
-      <img alt="" src="" />
-    </div>
-    <div className="content">
-      <ul>
-        <li>
-          <strong>Name:</strong> test
-        </li>
-        <li>
-          <strong>Occupation:</strong> test
-        </li>
-        <li>
-          <strong>Location:</strong> test
-        </li>
-      </ul>
+      <img alt={name} src= {image}/>
     </div>
   </div>
 );
